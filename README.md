@@ -15,16 +15,27 @@ Además trae el **Lanzador Unificado**, un solo menú para todos los sistemas, c
 
 ## Descarga
 
-Ve a **Releases** y baja el zip más reciente. El zip **NO trae juegos ni BIOS**: cada quien pone los suyos (así no pesa y no hay broncas de derechos). El tutorial paso a paso en Word viene dentro del zip.
+Ve a **Releases** y baja solo el zip del sistema que quieras, uno por sistema:
+
+- **PS1-Emulador-y-Autoboot.zip** — emulador SwanStation + plantilla autoboot (juego fijo `game.chd`)
+- **GBA-Emulador-y-Autoboot.zip** — emulador VBA-M + plantilla autoboot (juego fijo `game.gba`)
+- **NES-Emulador-y-Autoboot.zip** — emulador FCEUmm + plantilla autoboot (juego fijo `game.nes`)
+- **SNES-Emulador-y-Autoboot.zip** — emulador Snes9x + plantilla autoboot (juego fijo `game.smc`)
+- **Sega-Emulador-y-Autoboot.zip** — emulador Genesis Plus GX + plantilla autoboot (Genesis `game.md`, Sega CD `game.chd`)
+- **FBA-Emulador.zip** — emulador arcade Final Burn Alpha (lista de juegos, no es autoboot)
+- **Lanzador-Unificado-v1.3.zip** — el Lanzador Unificado (un solo menú para los 7 sistemas)
+- **Aurora-y-Tutorial.zip** — filtros de Aurora por sistema + tutorial paso a paso en Word
+
+Cada zip trae su LEEME corto con lo necesario, sin rollo. Ningún zip trae juegos ni BIOS: cada quien pone los suyos (así no pesan y no hay broncas de derechos).
 
 ## Instalación rápida
 
-1. Descomprime el zip y copia las carpetas a tu Xbox 360 (por FTP o USB).
+1. Baja el zip del sistema que quieras y descomprímelo.
 2. Cada emulador va en su carpeta dentro de `Hdd1:\Emuladores\`.
 3. Los juegos van en `Hdd1:\<Sistema>\<Juego>\` junto con su emulador (ver el tutorial).
 4. En Aurora, escanea el contenido y usa los filtros incluidos para ver cada sistema en su apartado.
 
-El tutorial completo (`TUTORIAL-Autoboot-360.docx`) viene dentro del zip.
+El tutorial completo (`TUTORIAL-Autoboot-360.docx`) viene en el zip `Aurora-y-Tutorial.zip`.
 
 ## Créditos
 

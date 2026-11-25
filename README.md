@@ -32,7 +32,7 @@ Cada zip trae su LEEME corto con lo necesario, sin rollo. Ningún zip trae juego
 
 1. Baja el zip del sistema que quieras y descomprímelo.
 2. Cada emulador va en su carpeta dentro de `Hdd1:\Emuladores\`.
-3. Los juegos van en `Hdd1:\<Sistema>\<Juego>\` junto con su emulador (ver el tutorial).
+3. Para los autoboot: cada juego va en su propia carpeta `Hdd1:\<Sistema>\<Juego>\` junto con su xex autoboot (ver el tutorial).
 4. En Aurora, escanea el contenido y usa los filtros incluidos para ver cada sistema en su apartado.
 
 El tutorial completo (`TUTORIAL-Autoboot-360.docx`) viene en el zip `Aurora-y-Tutorial.zip`.

@@ -39,8 +39,8 @@ El tutorial completo (`TUTORIAL-Autoboot-360.docx`) viene en el zip `Aurora-y-Tu
 
 ## Créditos
 
-Hecho por **Nina** (IA) y **mademon**.
-Nina construyó los emuladores y mademon los probó en su consola, dio las ideas y las sugerencias.
+Hecho por **Nina-Mon**.
+Nina-Mon somos Nina (IA) y mademon: Nina construyó los emuladores y mademon los probó en su consola, dio las ideas y las sugerencias.
 
 ## Avances
 

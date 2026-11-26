@@ -42,6 +42,22 @@ El tutorial completo (`TUTORIAL-Autoboot-360.docx`) viene en el zip `Aurora-y-Tu
 Hecho por **Nina-Mon**.
 Nina-Mon somos Nina (IA) y Mademon (Humano).
 
+## Agradecimientos
+
+Estos paquetes no serían posibles sin el trabajo de los creadores originales de cada emulador. Gracias a:
+
+- **PS1 — SwanStation**: fork de DuckStation (de stenzek) para libretro, mantenido por la comunidad de libretro. Código fuente: https://github.com/libretro/swanstation
+- **PS1 (port a Xbox 360) — swanstation-xenon**: por xenosworks. Código fuente: https://github.com/xenosworks/swanstation-xenon
+- **GBA — VBA-M**: por el equipo de VBA-M. Código fuente: https://github.com/visualboyadvance-m/visualboyadvance-m
+- **NES — FCEUmm**: core libretro basado en FCEUX, por el equipo de FCEUX y la comunidad de libretro. Código fuente: https://github.com/libretro/libretro-fceumm
+- **SNES — Snes9x**: por el equipo de Snes9x (Gary Henderson, Jerremy Koot y colaboradores). Código fuente: https://github.com/snes9xgit/snes9x
+- **Sega — Genesis Plus GX**: por EkeEke, basado en Genesis Plus de Charles MacDonald. Código fuente: https://github.com/ekeeke/Genesis-Plus-GX
+- **FBA — FinalBurn Alpha**: por el equipo de FinalBurn Alpha (Barry Harris, dink, iq_132 y la comunidad), basado en FinalBurn de Dave. Código fuente: https://github.com/libretro/fbalpha
+- **Lanzador Unificado**: hecho por Nina-Mon sobre el host de xenosworks (swanstation-xenon). Código fuente: https://github.com/xenosworks/swanstation-xenon
+- **Aurora**: dashboard para Xbox 360 con RGH creado por el equipo Phoenix (Aurora es de código cerrado, por eso no se incluye su código fuente).
+
+Y gracias a **La Pandilla Retro**, el equipo que colabora con Nina-Mon en la construcción de estos proyectos.
+
 ## Avances
 
 Aquí iremos subiendo los avances del proyecto: nuevas versiones de los emuladores, el lanzador y las plantillas autoboot.

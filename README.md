@@ -1,3 +1,5 @@
+![La Pandilla Retro](assets/la-pandilla-retro.png)
+
 # Emuladores 360 + Autoboot
 
 Emuladores para Xbox 360 con RGH (Aurora) que arrancan directo al juego, sin pasar por el menú del emulador. Cada juego tiene su propia carpeta con su emulador y su juego, y aparece en Aurora como un juego más.
